@@ -1,5 +1,7 @@
-# Esse projeto tem como objetivo colocar em pratica animaçoes feitas em CSS, estilizando um efeito neon na font
+# Neon Light Text
 
+
+#Esse projeto tem como objetivo colocar em pratica animaçoes feitas em CSS, estilizando um efeito neon na font
 #Como iniciar
 
 * Clone o projeto
