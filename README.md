@@ -5,7 +5,7 @@
 
 #Como iniciar
 
-* Clone o projeto
+>  Clone o projeto
 
 ```
 Abra o index.html em algum nevagador
