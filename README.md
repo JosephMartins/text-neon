@@ -3,7 +3,7 @@
 ## Neon light Text
 ## Esse projeto tem como objetivo colocar em pratica animaçoes feitas em CSS, estilizando um efeito neon na font
 
-# Como iniciar
+Para visualizar em local
 
 > Clone o projeto
 
@@ -20,4 +20,4 @@ Creditos ao canal Online Tutorials
 
 ### :D
 
-Feito com <3 by Joseph Martins
+Feito com ♡ by Joseph Martins
