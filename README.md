@@ -1,7 +1,8 @@
 # Desafio #30DiasDeCSS
 
 ## Neon light Text
-## Esse projeto tem como objetivo colocar em pratica animaçoes feitas em CSS, estilizando um efeito neon na font
+
+Esse projeto tem como objetivo colocar em pratica animaçoes feitas em CSS, estilizando um efeito neon na font
 
 Para visualizar em local
 
